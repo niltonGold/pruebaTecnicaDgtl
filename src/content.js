@@ -1,4 +1,4 @@
 export const content = {
   image: '/imagenMuestra.jpg',
-  text: 'Hola dgtlfundraising prueba1',
+  text: 'Hola dgtl prueba2',
 }
